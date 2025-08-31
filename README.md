@@ -1,4 +1,4 @@
-# 📈 Regime-Based Portfolio Optimization Project
+# 📈 HMM Identification Regime-Based Portfolio Optimization Project
 
 A comprehensive implementation of Hidden Markov Model (HMM) regime identification and regime-aware portfolio optimization strategies for enhanced risk-adjusted returns.
 
