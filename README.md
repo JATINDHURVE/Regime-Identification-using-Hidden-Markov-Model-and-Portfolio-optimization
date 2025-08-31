@@ -114,7 +114,7 @@ seaborn>=0.11.0
 
 ### Installation
 ```bash
-git clone https://github.com/yourusername/regime-portfolio-optimization.git
+git clone https://github.com/JATINDHURVE/Regime-Identification-using-Hidden-Markov-Model-and-Portfolio-optimization.git
 cd regime-portfolio-optimization
 pip install -r requirements.txt
 ```
@@ -188,13 +188,27 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📚 References
 
-- Hamilton, J.D. (1989). "A New Approach to the Economic Analysis of Nonstationary Time Series and the Business Cycle"
-- Markowitz, H. (1952). "Portfolio Selection"
-- Ang, A. & Bekaert, G. (2002). "Regime Switches in Interest Rates"
-
+- Bloomberg. (2023). "Bloomberg Fixed Income Indices: US Corporate Index"
+- Bloomberg. (2024). "Bloomberg Fixed Income Indices: Bloomberg US Treasury Index"
+- Bloomberg. (2025). "Bloomberg Commodity Indices: Bloomberg Commodity Index (BCOM)"
+- Bouvé, E. & Teiletche, J. (2024). "Regime-Based Strategic Asset Allocation"
+- Chan, E., Fan, H., Sawal, S. & Vialle, Q. (2023). "Conditional Portfolio Optimization: Using Machine Learning to Adapt Capital Allocations to Market Regimes"
+- Chen, Y.M., Li, B. & Saunders, D. (2025). "Exploratory Mean-Variance Portfolio Optimization with Regime-Switching Market Dynamics"
+- Costa, G. & Kwon, R.H. (2019). "A Regime-Switching Factor Model for Mean–Variance Optimization"
+- Gómez-Cram, R. (2021). "Late to Recessions: Stocks and the Business Cycle"
+- Kim, M.J. & Kwon, D. (2022). "Dynamic Asset Allocation Strategy: An Economic Regime Approach"
+- Moench, E. & Stein, T. "Equity Premium Predictability Over the Business Cycle"
+- OECD. (2020). "Interpreting OECD Composite Leading Indicators (CLIs)"
+- Oliveira, D.C., Sandfelder, D., Fujita, A., Dong, X. & Cucuringu, M. (2025). "Tactical Asset Allocation with Macroeconomic Regime Detection"
+- Pomorski, P. & Gorse, D. "Multi-period Portfolio Optimisation Using a Regime-Switching Predictive Framework"
+- Shu, Y. & Mulvey, J.M. (2024). "Dynamic Factor Allocation Leveraging Regime-Switching Signals"
+- Shu, Y., Yu, C. & Mulvey, J.M. (2024). "Dynamic Asset Allocation with Asset-Specific Regime Forecasts"
+- Wang, M., Liu, Y.-H. & Mikkelson, I. (2020). "Regime-Switching Factor Investing with Hidden Markov Models"
+- Yan, X. "Optimal Portfolio Allocation with Regime-Switching and Jump-Diffusion Dynamics: A Deep Reinforcement Learning Approach"
+  
 ## 📧 Contact
 
-For questions or collaboration opportunities, please reach out via [GitHub Issues](https://github.com/yourusername/regime-portfolio-optimization/issues).
+For questions or collaboration opportunities, please reach out via [GitHub Issues]([](https://github.com/JATINDHURVE/Regime-Identification-using-Hidden-Markov-Model-and-Portfolio-optimization.git)/issues).
 
 ---
 
