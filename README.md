@@ -24,7 +24,6 @@ Regime_Portfolio_project/
 ├── Data/
 │   ├── leading_indicators.xlsx      # VIX, PMI, Yield Curve data (1990-2025)
 │   ├── portfolio_data.xlsx          # Asset returns (Equities, Bonds, Commodities, REITs)
-│   └── world_bank_regimes.xlsx      # External regime validation data
 ├── Regime_identification/
 │   ├── hmm_regime_identification.ipynb    # Core HMM implementation
 │   ├── hmm_validation.ipynb              # Model validation & testing
@@ -33,7 +32,6 @@ Regime_Portfolio_project/
 ├── full_period_mvo/
 │   ├── mvo_normal.ipynb             # Traditional static MVO baseline
 │   ├── hmm_regime_mvo.ipynb         # Regime-based dynamic MVO
-│   └── world_banks_regime_mvo.ipynb # Alternative regime comparison
 ├── Traditional_mvo_train_test/
 │   ├── mvo_static.ipynb             # Static optimization with train/test split
 │   ├── hmm_regime_mvo.ipynb         # Regime-based with train/test split
@@ -153,7 +151,6 @@ jupyter notebook full_period_mvo/mvo_normal.ipynb
 ### Validation & Testing
 - **`mvo_static.ipynb`**: Static optimization with train/test methodology
 - **`probabilities_regime.ipynb`**: Regime probability analysis and transitions
-- **`world_banks_regime_mvo.ipynb`**: External regime data comparison
 
 ### Reports
 - **`HMM_Regime_Report_Comprehensive.ipynb`**: Complete project analysis
