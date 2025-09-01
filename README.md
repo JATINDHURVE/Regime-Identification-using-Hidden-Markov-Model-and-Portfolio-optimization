@@ -206,10 +206,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Wang, M., Liu, Y.-H. & Mikkelson, I. (2020). "Regime-Switching Factor Investing with Hidden Markov Models"
 - Yan, X. "Optimal Portfolio Allocation with Regime-Switching and Jump-Diffusion Dynamics: A Deep Reinforcement Learning Approach"
   
-## 📧 Contact
-
-For questions or collaboration opportunities, please reach out via [GitHub Issues]([](https://github.com/JATINDHURVE/Regime-Identification-using-Hidden-Markov-Model-and-Portfolio-optimization.git)/issues).
-
 ---
 
 **Note**: This project is for educational and research purposes. Past performance does not guarantee future results. Always consult with financial professionals before making investment decisions.
