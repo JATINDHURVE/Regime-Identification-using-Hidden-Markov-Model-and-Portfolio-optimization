@@ -27,7 +27,6 @@ Regime_Portfolio_project/
 ├── Regime_identification/
 │   ├── hmm_regime_identification.ipynb    # Core HMM implementation
 │   ├── hmm_validation.ipynb              # Model validation & testing
-│   ├── hmm_model_validation_positive_only.py  # Validation script
 │   └── hmm_regime_identification.xlsx    # Generated regime classifications
 ├── full_period_mvo/
 │   ├── mvo_normal.ipynb             # Traditional static MVO baseline
