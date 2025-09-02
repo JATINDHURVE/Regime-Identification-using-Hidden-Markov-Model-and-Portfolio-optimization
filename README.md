@@ -54,10 +54,10 @@ Regime_Portfolio_project/
 - Standardized features for numerical stability
 
 **Regime Classification Logic:**
-- **Expansion**: Highest PMI, lowest VIX (strong growth, low volatility)
-- **Recovery**: High yield curve, moderate VIX (economic recovery phase)
-- **Downturn**: Lowest PMI, highest VIX (recession/crisis periods)
-- **Slowdown**: Moderate indicators (economic deceleration)
+- **Expansion**: Highest PMI (strong economic activity)
+- **Recovery**: Highest yield curve, lowest VIX (steep curve with market calm)  
+- **Downturn**: Lowest PMI (economic contraction)
+- **Slowdown**: Remaining state (moderate indicators, economic deceleration)
 
 ### 2. Portfolio Assets
 
